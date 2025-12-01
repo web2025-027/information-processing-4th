@@ -1,0 +1,19 @@
+h1 { 
+    color: #B13546;
+text-align: center;
+}
+
+h2 {
+    color: #165E83;
+text-align: center;
+}
+
+p.note {
+    border: thin gray solid;
+    margin: 1em 4em;
+    padding: 0.5em;
+    background-color: #FFFF99; 
+    font-size: 12pt;
+    background-color: #00FFFF;
+text-align: center;
+}
